@@ -1,0 +1,4 @@
+# Archivos del sistema y privados
+.DS_Store
+.env
+*.key
